@@ -1,0 +1,24 @@
+#properties {
+  height: 33%;
+  position: absolute !important;
+  bottom: 0;
+  padding-bottom: 1rem;
+  padding-left: 16rem;
+  padding-right: 16rem;
+}
+.property-container {
+  overflow: auto
+}
+.property-thumb {
+  float: left
+}
+.property-thumb img {
+  display: block
+}
+.property-content {
+  /*margin-left: 210px*/
+}
+.property-title {
+  color: #24292e;
+  font-weight: bold;
+}
